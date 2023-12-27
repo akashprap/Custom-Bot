@@ -1,4 +1,4 @@
-# Finance-Custom-Bot 💼🤖
+# Custom-Bot 💼🤖
 
 The Finance-Custom-Bot is a project that harnesses the power of language chains and vector embeddings to find the best similarity score for a given text input. It's particularly adept in the finance sector, significantly enhancing operations through accurate and efficient text matching.
 
